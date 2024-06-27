@@ -1,0 +1,533 @@
+{
+  "resources/client/common/auth/ui/email-verification-page/mail-sent.svg": {
+    "file": "assets/mail-sent.c2a25732.svg",
+    "src": "resources/client/common/auth/ui/email-verification-page/mail-sent.svg"
+  },
+  "resources/client/dashboard/links/share-link.svg": {
+    "file": "assets/share-link.2f61bb3e.svg",
+    "src": "resources/client/dashboard/links/share-link.svg"
+  },
+  "resources/client/common/ui/not-found-page/404-1.png": {
+    "file": "assets/404-1.176145e9.png",
+    "src": "resources/client/common/ui/not-found-page/404-1.png"
+  },
+  "resources/client/common/ui/not-found-page/404-2.png": {
+    "file": "assets/404-2.14c4a897.png",
+    "src": "resources/client/common/ui/not-found-page/404-2.png"
+  },
+  "resources/client/dashboard/tracking-pixels/location-tracking.svg": {
+    "file": "assets/location-tracking.0df79a5f.svg",
+    "src": "resources/client/dashboard/tracking-pixels/location-tracking.svg"
+  },
+  "resources/client/dashboard/link-overlays/preferences-popup.svg": {
+    "file": "assets/preferences-popup.824a74c6.svg",
+    "src": "resources/client/dashboard/link-overlays/preferences-popup.svg"
+  },
+  "resources/client/common/admin/custom-pages/articles.svg": {
+    "file": "assets/articles.8bfd9f17.svg",
+    "src": "resources/client/common/admin/custom-pages/articles.svg"
+  },
+  "resources/client/dashboard/biolink/biolinks-datatable-page/marketing.svg": {
+    "file": "assets/marketing.2040a197.svg",
+    "src": "resources/client/dashboard/biolink/biolinks-datatable-page/marketing.svg"
+  },
+  "resources/client/common/notifications/empty-state/notify.svg": {
+    "file": "assets/notify.d1de4ec3.svg",
+    "src": "resources/client/common/notifications/empty-state/notify.svg"
+  },
+  "resources/client/common/admin/roles/team.svg": {
+    "file": "assets/team.de984127.svg",
+    "src": "resources/client/common/admin/roles/team.svg"
+  },
+  "resources/client/common/admin/appearance/sections/menus/dropdown-menu.svg": {
+    "file": "assets/dropdown-menu.c9b3bd6a.svg",
+    "src": "resources/client/common/admin/appearance/sections/menus/dropdown-menu.svg"
+  },
+  "resources/client/common/admin/translations/around-the-world.svg": {
+    "file": "assets/around-the-world.df9b11c5.svg",
+    "src": "resources/client/common/admin/translations/around-the-world.svg"
+  },
+  "resources/client/common/admin/tags/software-engineer.svg": {
+    "file": "assets/software-engineer.ba026106.svg",
+    "src": "resources/client/common/admin/tags/software-engineer.svg"
+  },
+  "resources/client/common/admin/file-entry/upload.svg": {
+    "file": "assets/upload.cabfc914.svg",
+    "src": "resources/client/common/admin/file-entry/upload.svg"
+  },
+  "resources/client/common/admin/subscriptions/subscriptions.svg": {
+    "file": "assets/subscriptions.7eacea42.svg",
+    "src": "resources/client/common/admin/subscriptions/subscriptions.svg"
+  },
+  "resources/client/admin/verts/page-top.png": {
+    "file": "assets/page-top.85207f10.png",
+    "src": "resources/client/admin/verts/page-top.png"
+  },
+  "resources/client/admin/verts/splash-top.png": {
+    "file": "assets/splash-top.5fef075e.png",
+    "src": "resources/client/admin/verts/splash-top.png"
+  },
+  "resources/client/admin/verts/splash-bottom.png": {
+    "file": "assets/splash-bottom.01df97c7.png",
+    "src": "resources/client/admin/verts/splash-bottom.png"
+  },
+  "resources/client/admin/verts/dashboard-top.png": {
+    "file": "assets/dashboard-top.e510929a.png",
+    "src": "resources/client/admin/verts/dashboard-top.png"
+  },
+  "resources/client/admin/verts/biolink-top.png": {
+    "file": "assets/biolink-top.ce799801.png",
+    "src": "resources/client/admin/verts/biolink-top.png"
+  },
+  "resources/client/admin/verts/landing-top.png": {
+    "file": "assets/landing-top.8eca6071.png",
+    "src": "resources/client/admin/verts/landing-top.png"
+  },
+  "resources/client/admin/verts/frame-top.png": {
+    "file": "assets/frame-top.2edadf70.png",
+    "src": "resources/client/admin/verts/frame-top.png"
+  },
+  "resources/client/common/auth/ui/account-settings/access-token-panel/secure-files.svg": {
+    "file": "assets/secure-files.17b4728d.svg",
+    "src": "resources/client/common/auth/ui/account-settings/access-token-panel/secure-files.svg"
+  },
+  "resources/client/common/custom-domains/datatable/world.svg": {
+    "file": "assets/world.ea41c34b.svg",
+    "src": "resources/client/common/custom-domains/datatable/world.svg"
+  },
+  "resources/client/common/auth/ui/auth-layout/auth-bg.svg": {
+    "file": "assets/auth-bg.8529ec0e.svg",
+    "src": "resources/client/common/auth/ui/auth-layout/auth-bg.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/image.png": {
+    "file": "assets/image.d8dc8345.png",
+    "src": "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/image.png"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/text.png": {
+    "file": "assets/text.e5f73930.png",
+    "src": "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/text.png"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/socials.png": {
+    "file": "assets/socials.7d34b331.png",
+    "src": "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/socials.png"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/youtube.png": {
+    "file": "assets/youtube.8639db0d.png",
+    "src": "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/youtube.png"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/soundcloud.png": {
+    "file": "assets/soundcloud.a6ae8fd9.png",
+    "src": "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/soundcloud.png"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/vimeo.jpeg": {
+    "file": "assets/vimeo.f698adf6.jpeg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/vimeo.jpeg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/twitch.svg": {
+    "file": "assets/twitch.7d18ac0c.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/twitch.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/spotify.png": {
+    "file": "assets/spotify.45316d66.png",
+    "src": "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/spotify.png"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/tiktok.png": {
+    "file": "assets/tiktok.956e4d3e.png",
+    "src": "resources/client/dashboard/biolink/biolink-editor/content/widgets/widget-selector/widget-images/tiktok.png"
+  },
+  "resources/client/common/ui/font-selector/font.svg": {
+    "file": "assets/font.a5a81d1a.svg",
+    "src": "resources/client/common/ui/font-selector/font.svg"
+  },
+  "node_modules/ace-builds/src-noconflict/worker-css.js": {
+    "file": "assets/worker-css.01905699.js",
+    "src": "node_modules/ace-builds/src-noconflict/worker-css.js"
+  },
+  "node_modules/ace-builds/src-noconflict/worker-html.js": {
+    "file": "assets/worker-html.ca2d0aac.js",
+    "src": "node_modules/ace-builds/src-noconflict/worker-html.js"
+  },
+  "node_modules/ace-builds/src-noconflict/worker-javascript.js": {
+    "file": "assets/worker-javascript.38a4e986.js",
+    "src": "node_modules/ace-builds/src-noconflict/worker-javascript.js"
+  },
+  "resources/client/common/billing/billing-page/panels/paypal.svg": {
+    "file": "assets/paypal.c2a77c63.svg",
+    "src": "resources/client/common/billing/billing-page/panels/paypal.svg"
+  },
+  "resources/client/dashboard/upgrade/upgrade.svg": {
+    "file": "assets/upgrade.1a8523e3.svg",
+    "src": "resources/client/dashboard/upgrade/upgrade.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Angled-Focus.svg": {
+    "file": "assets/Angled-Focus.176ea4bb.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Angled-Focus.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Circular-Focus.svg": {
+    "file": "assets/Circular-Focus.ca4d12f0.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Circular-Focus.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Canyon-Funnel.svg": {
+    "file": "assets/Canyon-Funnel.b2e2eaf0.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Canyon-Funnel.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Farseeing-Eyeball.svg": {
+    "file": "assets/Farseeing-Eyeball.aa4a0249.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Farseeing-Eyeball.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Looney-Loops.svg": {
+    "file": "assets/Looney-Loops.6f56821b.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Looney-Loops.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Icy-Explosion.svg": {
+    "file": "assets/Icy-Explosion.988bfd47.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Icy-Explosion.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Monstera-Patch.svg": {
+    "file": "assets/Monstera-Patch.69fc9117.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Monstera-Patch.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Confetti-Doodles.svg": {
+    "file": "assets/Confetti-Doodles.d1c20c3c.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Confetti-Doodles.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Alternating-Triangles.svg": {
+    "file": "assets/Alternating-Triangles.d5e42a92.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Alternating-Triangles.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Hurricane-Aperture.svg": {
+    "file": "assets/Hurricane-Aperture.35c89ecf.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Hurricane-Aperture.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Protruding-Squares.svg": {
+    "file": "assets/Protruding-Squares.b00abf9b.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Protruding-Squares.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Threads-Ahead.svg": {
+    "file": "assets/Threads-Ahead.28db1646.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Threads-Ahead.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Launch-Day.svg": {
+    "file": "assets/Launch-Day.f2926785.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Launch-Day.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Sprinkle.svg": {
+    "file": "assets/Sprinkle.d1a9b59f.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Sprinkle.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Circuit-Board.svg": {
+    "file": "assets/Circuit-Board.b3635293.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Circuit-Board.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/nuclear-focalpoint.svg": {
+    "file": "assets/nuclear-focalpoint.166680aa.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/nuclear-focalpoint.svg"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Snow.svg": {
+    "file": "assets/Snow.424582cb.svg",
+    "src": "resources/client/dashboard/biolink/biolink-editor/appearance/background-selector/svg-bgs/Snow.svg"
+  },
+  "resources/client/main.tsx": {
+    "file": "assets/main.0615c25a.js",
+    "src": "resources/client/main.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/client/common/billing/billing-page/billing-page-routes.tsx",
+      "resources/client/common/billing/checkout/checkout-routes.tsx",
+      "_dashboard-routes.6d237f77.js",
+      "_admin-routes.67485202.js",
+      "resources/client/common/swagger/swagger-api-docs-page.tsx"
+    ],
+    "css": [
+      "assets/main.e1cf65d7.css"
+    ],
+    "assets": [
+      "assets/page-top.85207f10.png",
+      "assets/splash-top.5fef075e.png",
+      "assets/splash-bottom.01df97c7.png",
+      "assets/dashboard-top.e510929a.png",
+      "assets/frame-top.2edadf70.png",
+      "assets/landing-top.8eca6071.png",
+      "assets/biolink-top.ce799801.png",
+      "assets/auth-bg.8529ec0e.svg",
+      "assets/notify.d1de4ec3.svg",
+      "assets/secure-files.17b4728d.svg",
+      "assets/mail-sent.c2a25732.svg",
+      "assets/404-1.176145e9.png",
+      "assets/404-2.14c4a897.png",
+      "assets/share-link.2f61bb3e.svg",
+      "assets/tiktok.956e4d3e.png"
+    ]
+  },
+  "_dashboard-routes.6d237f77.js": {
+    "file": "assets/dashboard-routes.6d237f77.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_Edit.336acc69.js",
+      "_index.14466ddf.js"
+    ],
+    "dynamicImports": [
+      "resources/client/common/charts/lazy-chart.tsx",
+      "resources/client/common/admin/custom-pages/editor/text-editor.tsx",
+      "resources/client/common/ui/icon-picker/icon-list.tsx"
+    ],
+    "assets": [
+      "assets/upgrade.1a8523e3.svg",
+      "assets/world.ea41c34b.svg",
+      "assets/location-tracking.0df79a5f.svg",
+      "assets/articles.8bfd9f17.svg",
+      "assets/preferences-popup.824a74c6.svg",
+      "assets/marketing.2040a197.svg",
+      "assets/image.d8dc8345.png",
+      "assets/text.e5f73930.png",
+      "assets/socials.7d34b331.png",
+      "assets/youtube.8639db0d.png",
+      "assets/soundcloud.a6ae8fd9.png",
+      "assets/vimeo.f698adf6.jpeg",
+      "assets/spotify.45316d66.png",
+      "assets/twitch.7d18ac0c.svg",
+      "assets/tiktok.956e4d3e.png",
+      "assets/Angled-Focus.176ea4bb.svg",
+      "assets/Circular-Focus.ca4d12f0.svg",
+      "assets/Farseeing-Eyeball.aa4a0249.svg",
+      "assets/Canyon-Funnel.b2e2eaf0.svg",
+      "assets/Looney-Loops.6f56821b.svg",
+      "assets/Hurricane-Aperture.35c89ecf.svg",
+      "assets/Icy-Explosion.988bfd47.svg",
+      "assets/Protruding-Squares.b00abf9b.svg",
+      "assets/Alternating-Triangles.d5e42a92.svg",
+      "assets/Monstera-Patch.69fc9117.svg",
+      "assets/Confetti-Doodles.d1c20c3c.svg",
+      "assets/Threads-Ahead.28db1646.svg",
+      "assets/Launch-Day.f2926785.svg",
+      "assets/Sprinkle.d1a9b59f.svg",
+      "assets/Circuit-Board.b3635293.svg",
+      "assets/nuclear-focalpoint.166680aa.svg",
+      "assets/Snow.424582cb.svg",
+      "assets/font.a5a81d1a.svg"
+    ]
+  },
+  "_Edit.336acc69.js": {
+    "file": "assets/Edit.336acc69.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "_index.14466ddf.js": {
+    "file": "assets/index.14466ddf.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "_admin-routes.67485202.js": {
+    "file": "assets/admin-routes.67485202.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_dashboard-routes.6d237f77.js",
+      "_Edit.336acc69.js",
+      "_sticky-sentinel.79e09ebd.js",
+      "_MoreVert.14110417.js",
+      "_TrendingDown.0d98a549.js",
+      "_use-resume-subscription.d8f9ede5.js"
+    ],
+    "dynamicImports": [
+      "resources/client/common/admin/analytics/admin-report-page.tsx"
+    ],
+    "assets": [
+      "assets/team.de984127.svg",
+      "assets/dropdown-menu.c9b3bd6a.svg",
+      "assets/around-the-world.df9b11c5.svg",
+      "assets/software-engineer.ba026106.svg",
+      "assets/upload.cabfc914.svg",
+      "assets/subscriptions.7eacea42.svg"
+    ]
+  },
+  "_sticky-sentinel.79e09ebd.js": {
+    "file": "assets/sticky-sentinel.79e09ebd.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ],
+    "dynamicImports": [
+      "resources/client/common/ace-editor/ace-editor.tsx"
+    ]
+  },
+  "_TrendingDown.0d98a549.js": {
+    "file": "assets/TrendingDown.0d98a549.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "_use-resume-subscription.d8f9ede5.js": {
+    "file": "assets/use-resume-subscription.d8f9ede5.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "_MoreVert.14110417.js": {
+    "file": "assets/MoreVert.14110417.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "resources/client/common/swagger/swagger-api-docs-page.tsx": {
+    "file": "assets/swagger-api-docs-page.9faed6ab.js",
+    "src": "resources/client/common/swagger/swagger-api-docs-page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_index.0e506da0.js",
+      "_format.5298ab92.js",
+      "_index.14466ddf.js"
+    ],
+    "css": [
+      "assets/swagger-api-docs-page.82af9405.css"
+    ]
+  },
+  "_index.0e506da0.js": {
+    "file": "assets/index.0e506da0.js"
+  },
+  "_format.5298ab92.js": {
+    "file": "assets/format.5298ab92.js"
+  },
+  "resources/client/common/billing/billing-page/billing-page-routes.tsx": {
+    "file": "assets/billing-page-routes.9c40962c.js",
+    "src": "resources/client/common/billing/billing-page/billing-page-routes.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_Edit.336acc69.js",
+      "_billing-redirect-message.1d6f953a.js",
+      "_use-resume-subscription.d8f9ede5.js",
+      "_OpenInNew.ddbc34d6.js",
+      "_TaskAlt.94a18e32.js"
+    ],
+    "assets": [
+      "assets/paypal.c2a77c63.svg"
+    ]
+  },
+  "_billing-redirect-message.1d6f953a.js": {
+    "file": "assets/billing-redirect-message.1d6f953a.js",
+    "imports": [
+      "resources/client/main.tsx",
+      "_TaskAlt.94a18e32.js"
+    ]
+  },
+  "_TaskAlt.94a18e32.js": {
+    "file": "assets/TaskAlt.94a18e32.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "_OpenInNew.ddbc34d6.js": {
+    "file": "assets/OpenInNew.ddbc34d6.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "resources/client/common/billing/checkout/checkout-routes.tsx": {
+    "file": "assets/checkout-routes.9d0cd6d4.js",
+    "src": "resources/client/common/billing/checkout/checkout-routes.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_billing-redirect-message.1d6f953a.js",
+      "_TaskAlt.94a18e32.js"
+    ]
+  },
+  "resources/client/common/admin/custom-pages/editor/text-editor.tsx": {
+    "file": "assets/text-editor.0e9418f4.js",
+    "src": "resources/client/common/admin/custom-pages/editor/text-editor.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_format.5298ab92.js",
+      "_Edit.336acc69.js",
+      "_dashboard-routes.6d237f77.js",
+      "_sticky-sentinel.79e09ebd.js",
+      "_UnfoldLess.a7fd5998.js",
+      "_MoreVert.14110417.js",
+      "_index.14466ddf.js"
+    ],
+    "css": [
+      "assets/text-editor.b603c7db.css"
+    ]
+  },
+  "_UnfoldLess.a7fd5998.js": {
+    "file": "assets/UnfoldLess.a7fd5998.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "resources/client/common/charts/lazy-chart.tsx": {
+    "file": "assets/lazy-chart.79c44e34.js",
+    "src": "resources/client/common/charts/lazy-chart.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "resources/client/common/ui/icon-picker/icon-list.tsx": {
+    "file": "assets/icon-list.4edba4d5.js",
+    "src": "resources/client/common/ui/icon-picker/icon-list.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_dashboard-routes.6d237f77.js",
+      "_UnfoldLess.a7fd5998.js",
+      "_OpenInNew.ddbc34d6.js",
+      "_TrendingDown.0d98a549.js",
+      "_Edit.336acc69.js",
+      "_MoreVert.14110417.js",
+      "_TaskAlt.94a18e32.js",
+      "_index.14466ddf.js"
+    ]
+  },
+  "resources/client/common/admin/analytics/admin-report-page.tsx": {
+    "file": "assets/admin-report-page.9ad847bc.js",
+    "src": "resources/client/common/admin/analytics/admin-report-page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_admin-routes.67485202.js",
+      "_dashboard-routes.6d237f77.js",
+      "_Edit.336acc69.js",
+      "_sticky-sentinel.79e09ebd.js",
+      "_MoreVert.14110417.js",
+      "_TrendingDown.0d98a549.js",
+      "_use-resume-subscription.d8f9ede5.js",
+      "_index.14466ddf.js"
+    ]
+  },
+  "resources/client/common/ace-editor/ace-editor.tsx": {
+    "file": "assets/ace-editor.e1d197c5.js",
+    "src": "resources/client/common/ace-editor/ace-editor.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_index.0e506da0.js"
+    ],
+    "assets": [
+      "assets/worker-css.01905699.js",
+      "assets/worker-html.ca2d0aac.js",
+      "assets/worker-javascript.38a4e986.js"
+    ]
+  },
+  "resources/client/common/admin/custom-pages/editor/text-editor.css": {
+    "file": "assets/text-editor.b603c7db.css",
+    "src": "resources/client/common/admin/custom-pages/editor/text-editor.css"
+  },
+  "resources/client/dashboard/biolink/biolink-editor/content/link-content-item/animate.min.css": {
+    "file": "assets/animate.min.91bc6200.css",
+    "src": "resources/client/dashboard/biolink/biolink-editor/content/link-content-item/animate.min.css"
+  },
+  "resources/client/main.css": {
+    "file": "assets/main.e1cf65d7.css",
+    "src": "resources/client/main.css"
+  },
+  "resources/client/common/swagger/swagger-api-docs-page.css": {
+    "file": "assets/swagger-api-docs-page.82af9405.css",
+    "src": "resources/client/common/swagger/swagger-api-docs-page.css"
+  }
+}
